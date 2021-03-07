@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter">Filter</string>
+    <string name="product_title">Mainan Anak Maps Jalanan Mobil Bus T...</string>
+    <string name="product_price">Rp 89.000</string>
+    <string name="product_discount_pct">27%</string>
+    <string name="location">Lokasi</string>
+    <string name="price">Harga</string>
+    <string name="minimum_price">Minimum Price</string>
+    <string name="maximum_price">Maximum Price</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>
